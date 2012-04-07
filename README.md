@@ -1,4 +1,4 @@
-## Bookmarklets [?](http://en.wikipedia.org/wiki/Bookmarklet) 
+## Bookmarklets
 
 ### Twitter
 These bookmarklets allow you to hide mentions and retweets on the web interface.  
@@ -14,4 +14,7 @@ Used Ben Alman's great [Run jQuery code bookmarklet generator](http://benalman.c
 1 Click the bookmarklet you want to install below.  
 2 Copy the code.  
 3 Create a new bookmark in your browser and paste the code in the URL field.  
+
+[What is a bookmarklet?](http://en.wikipedia.org/wiki/Bookmarklet) 
+
 

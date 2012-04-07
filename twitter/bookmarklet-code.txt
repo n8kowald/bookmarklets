@@ -4,8 +4,8 @@ $("head").append("<style type=\"text/css\">div.tweet[data-retweet-id]{display:no
 
 // Hide Mentions
 $('div.tweet a.twitter-atreply').each(function(){$(this).closest('div.tweet').hide()});
-$("head").append("<style type=\"text/css\">div.tweet[data-is-reply-to=\"true\"] {display:none}");
+$("head").append("<style type=\"text/css\">div.tweet[data-is-reply-to=\"true\"]{display:none}");
 
 // Hide Replies
 $('div[data-is-reply-to="true"]').each(function() {$(this).hide()});
-$("head").append("<style type=\"text/css\">div.tweet[data-is-reply-to=\"true\"] {display:none}");
+$("head").append("<style type=\"text/css\">div.tweet[data-is-reply-to=\"true\"]{display:none}");

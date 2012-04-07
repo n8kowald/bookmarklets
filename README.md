@@ -1,9 +1,9 @@
 ## Bookmarklets
 
 ### Installation
-1. Click the bookmarklet you want to install below.  
-2. Copy the code.    
-3. Create a new bookmark in your browser and paste the code in the URL field.  
+1. Click the bookmarklet you want to install below.
+2. Copy the code.
+3. Create a new bookmark in your browser and paste the code in the URL field.
 
 ### Twitter
 [Hide Mentions](http://raw.github.com/n8kowald/bookmarklets/master/twitter/hide-mentions.js)  

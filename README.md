@@ -1,7 +1,7 @@
 ## Bookmarklets
 
 ### Twitter
-These bookmarklets allow you to hide mentions and retweets on the web interface.  
+These [bookmarklets](http://en.wikipedia.org/wiki/Bookmarklet) allow you to hide mentions and retweets on the web interface.  
 When viewing a new user profile, I want to see non-reply tweets only. These are what I'd receive if I were to follow them.
 
 [Hide Mentions](http://raw.github.com/n8kowald/bookmarklets/master/twitter/hide-mentions.js)  

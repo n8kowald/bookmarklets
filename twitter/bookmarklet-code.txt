@@ -1,0 +1,8 @@
+// Hide Retweets
+$("div[data-retweet-id]").each(function(){$(this).hide()});
+
+// Hide Mentions
+$('div.tweet a.twitter-atreply').each(function(){$(this).closest('div.tweet').hide()});
+
+// Hide Replies
+$('div[data-is-reply-to="true"]').each(function() {$(this).hide()});

@@ -36,6 +36,6 @@ for (var i = items.length; i--;) {
 	if (!num) continue;
 
 	items[i].style.backgroundColor = (colors[num]) ? colors[num] : 'red';
-	items[i].innerHTML = '<span style="color:#fff;text-shadow:1px 1px 2px rgba(0,0,0,0.7);font-size:14px;">&nbsp; span' + num + '</span>' + items[i].innerHTML;
+	items[i].innerHTML = '<span style="color:#fff;text-shadow:1px 1px 2px rgba(0,0,0,0.7);font-size:14px;">&nbsp;span' + num + '</span>' + items[i].innerHTML;
 } 
 void(0);
